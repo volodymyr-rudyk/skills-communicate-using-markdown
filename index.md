@@ -1,3 +1,17 @@
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+
+
+---
+
+``` javascript
+var myVar = "Hello, world!";
+```
+
+
+
 # Header 1
 ## Header 2
 ### Header 3
